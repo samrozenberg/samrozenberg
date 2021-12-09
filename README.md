@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for a job **as a fullstack web developer.**
 
-- 🌱 I’m currently learning **Ruby on Rails and Javascript.**
+- 🌱 I’m currently working on **Ruby on Rails and Javascript.**
 
 - 📫 How to reach me **sam.rozen@hotmail.com**
 
