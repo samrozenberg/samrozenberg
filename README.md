@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam Rozenberg</h1>
 <h3 align="center">A passionate fullstack developer from Belgium</h3>
 
-- 🔭 I’m currently working as a Software Engineer for **SquareHub**, the 1st recruitment platform in the fields of **engineering, architecture and construction.**
+- 🔭 I’m currently working as a Software Engineer for **<a href="https://squarehub.eu/" target="blank">Squarehub</a>**, the 1st recruitment platform in the fields of **engineering, architecture and construction.**
 
 - 🌱 I’m currently working on **Ruby on Rails and React.**
 
