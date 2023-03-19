@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Software Engineer for **SquareHub**, the 1st recruitment platform in the fields of **engineering, architecture and construction.**
 
-- 🌱 I’m currently mostly working on **Ruby on Rails and React.**
+- 🌱 I’m currently working on **Ruby on Rails and React.**
 
 - 📫 How to reach me **sam.rozen@hotmail.com**
 
